@@ -1,4 +1,4 @@
-# Corn Diseases Detection Using Hybrid Deep Learning Model (VGG-19 + ResNeXT)
+# Corn Leafs Diseases Detection Using Hybrid Deep Learning Model (VGG-19 + ResNeXT)
 
 ## Overview
 This project leverages a hybrid deep learning approach combining **VGG-19** and **ResNeXT** architectures to detect diseases in corn crops with a high accuracy of **94.7%**. By averaging predictions from both models, the hybrid model enhances reliability and performance, offering a robust solution for agricultural disease management.
